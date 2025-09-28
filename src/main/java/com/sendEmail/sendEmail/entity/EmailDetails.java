@@ -2,11 +2,10 @@ package com.sendEmail.sendEmail.entity;
 
 import javax.persistence.Entity;
 
-
 @Entity
 public class EmailDetails {
 	
-	private String recipent;
+	private String recipent; 
 	private String msgBody;
 	private String subject;
 	private String attachement;
