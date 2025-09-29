@@ -1,5 +1,6 @@
 package com.sendEmail.sendEmail.entity;
 
+
 import javax.persistence.Entity;
 
 @Entity
