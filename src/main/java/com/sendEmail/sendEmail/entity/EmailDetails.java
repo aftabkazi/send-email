@@ -1,9 +1,7 @@
 package com.sendEmail.sendEmail.entity;
 
 
-import javax.persistence.Entity;
 
-@Entity
 public class EmailDetails {
 	
 	private String recipent; 
